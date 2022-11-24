@@ -1,0 +1,50 @@
+.container{
+  margin:10vh auto 0 auto;
+  box-shadow: 0px 0px 43px 17px rgba(153,153,153,1);
+  width:300px;
+  height: 670px;
+  background-color:black;
+}
+.content{
+  text-align:center;
+  font-family: 'Caveat', cursive;
+  color: #FF731D;
+
+}
+
+.mx-auto{
+  margin: auto;
+}
+
+.row{
+  text-align: center;
+}
+.flex{
+  display: flex;
+  }
+.flex-col{
+    flex-direction: column;
+  }
+.item-center{
+  align-items: center;
+}
+.row{
+  margin: 9px 0;
+}
+.button{
+  padding: 20px;
+  margin: 0 4px;
+  border:3px solid blue;
+  border-radius: 9px;
+  cursor: pointer;
+  font-family: Caveat, cursive;
+  color:red;
+  background-color: pink;
+  font-size:1.5rem;
+}
+.row input{
+  margin:0;
+  padding: 22px 8px;
+  font-size:20px;
+  background-color: yellow;
+}
